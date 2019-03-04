@@ -1,14 +1,14 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "/angular_pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html"
+        "/angular_pwa/favicon.ico",
+        "/angular_pwa/index.html"
       ],
       "patterns": []
     },
@@ -22,8 +22,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "9b2ddd5817a612caa730d7bc517ff468413317f3"
+    "/angular_pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/angular_pwa/index.html": "3b342e3cf839a10d68e0dff04499292f9261ed2b"
   },
   "navigationUrls": [
     {
